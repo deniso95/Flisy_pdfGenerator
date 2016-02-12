@@ -1,0 +1,13 @@
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\bin\Release\Fliwy_umowy.exe.config
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\bin\Release\Fliwy_umowy.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\bin\Release\Fliwy_umowy.pdb
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\bin\Release\itextsharp.dll
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\bin\Release\itextsharp.pdfa.dll
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\bin\Release\itextsharp.xtra.dll
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\bin\Release\itextsharp.xml
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\obj\Release\pdfGenerator.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\obj\Release\Flisy_umowy.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\obj\Release\pdfGenerator.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\obj\Release\Fliwy_umowy.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\obj\Release\Fliwy_umowy.pdb
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\pdfGenerator\pdfGenerator\obj\Release\pdfGenerator.csprojResolveAssemblyReference.cache
